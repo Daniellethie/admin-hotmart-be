@@ -1,4 +1,4 @@
-node_modules
+node_module
 coverage
 .vscode
 .DS_STORE
