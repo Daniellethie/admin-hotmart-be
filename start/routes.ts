@@ -25,5 +25,5 @@ Route.get('/', async () => {
 })
 
 Route.get('/healthz',() => {
-  return { hello:'all good' }
+  return { result:'all good' }
 })
